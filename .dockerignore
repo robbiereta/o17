@@ -1,0 +1,8 @@
+# flyctl launch added from .gitignore
+**/Dockerfile
+
+# flyctl launch added from o17/addons/point_of_sale/tools/posbox/.gitignore
+o17/addons/point_of_sale/tools/posbox/**/kernel-qemu
+o17/addons/point_of_sale/tools/posbox/**/posbox.img
+o17/addons/point_of_sale/tools/posbox/**/raspbian.img
+fly.toml
